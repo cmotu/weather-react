@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <WeatherSearch />
+        <a href="https://github.com/cmotu/weather-react">Open-Sourced Code by Christina Motu</a>
       </header>
     </div>
   );
